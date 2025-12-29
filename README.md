@@ -4,4 +4,11 @@
 操作步骤：
 把DesktopTxtWallpaperReader.exe拖到桌面，双击图标
 
+已完成：
+
+1. 引导页
+2. 快捷键
+3. 
+
 TODO：
+1. 
